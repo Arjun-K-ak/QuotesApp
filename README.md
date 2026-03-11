@@ -19,3 +19,9 @@ You can also share the quote using the "Share Quote" button.
 
 ## Author
 Arjun K
+
+## App Screenshots
+
+![App Screenshot](app_screen1.png)
+
+![App Screenshot](app_screen2.png)
